@@ -62,3 +62,5 @@ for case in range(1,T+1):
         # for constructing an array with the appropriate cost:
         A = construct(N,C,1)
         print("Case #" + str(case) + ": " + A)
+
+print("--- %s seconds ---" % (time.time() - start_time))
