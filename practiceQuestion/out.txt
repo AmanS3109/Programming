@@ -1,3 +1,2 @@
-Case #1: Missing number is 2
-Case #2: Missing number is 2
-Case #3: Missing number is 8
+Case #1: All the Missing numbers are [5, 6]
+Case #2: All the Missing numbers are [2]
