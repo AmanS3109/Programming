@@ -1,10 +1,5 @@
 def missing_num(arr):
-    arr.sort()
-    for index, val in enumerate(arr):
-        if index + 1 != val:  # Expected value should be index + 1
-            return index + 1  # Return the missing number
-    # If no number is missing in the sequence
-    return len(arr) + 1
+    return sum(range(len(arr)+1)) - sum(arr)
 
     
 
