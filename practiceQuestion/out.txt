@@ -1,2 +1,2 @@
-Case #1: Yes
-Case #2: No
+Case #1: Target found at index 2
+Case #2: Target not found
