@@ -1,6 +1,2 @@
-Case #1:
-abc*+
-Case #2:
-ab+c*
-Case #3:
-abc*d-e/+
+Case #1: [123, 456, 789]
+Case #2: [10, 20, 30, 40]
