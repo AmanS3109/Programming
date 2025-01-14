@@ -70,10 +70,11 @@ vector<int> FindArraySum(vector<int>& nums1, vector<int>& nums2) {
         j--;
     }
 
-    if (carry) {
-        result.push_back(carry);
+    // Last case
+    while (carry) {
+        result.push_back(carry % 10);
+        carry /= 10;
     }
-
     reverse(result.begin(), result.end());
     return result;
 }
