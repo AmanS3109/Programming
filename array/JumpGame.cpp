@@ -1,18 +1,4 @@
 // maximum jump need to reach last index
-// 1. greedy
-// 2. dp
-// 3. bfs
-// 4. dfs
-// 5. backtracking
-// 6. binary search
-// 7. segment tree
-// 8. fenwick tree
-// 9. disjoint set union
-// 10. trie
-// 11. stack
-// 12. queue
-// 13. heap
-// 14. hash table
 
 #include <bits/stdc++.h>
 using namespace std;

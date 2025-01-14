@@ -1,0 +1,1 @@
+{"name":"Local: AddArray","url":"c:\\Users\\singh\\Programming\\array\\AddArray.cpp","tests":[{"id":1736842155598,"input":"1 2 3 4\n9","output":"1 2 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\singh\\Programming\\array\\AddArray.cpp","group":"local","local":true}
